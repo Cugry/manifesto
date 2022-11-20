@@ -1,3 +1,6 @@
+# IMPORTANT : Floko V4 project has been moved here.
+* [FlokoROM v4](https://github.com/FloxoRom/manifesto/tree/11.0)
+
 # IMPORTANT : This is Unofficial Project.
 * [FlokoROM v6(unofficial,Android 12.1) is available.](https://github.com/FloxoRom/manifesto)
 
